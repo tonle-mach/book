@@ -108,7 +108,7 @@ Esistono diverse architetture software, ognuna con i suoi pro e i suoi contro. I
 
 Per scegliere quale architettura usare in diversi contesti, possiamo fare riferimenti alle seguenti caratteristiche:
 
-- **Start-up**: Il tempo necessario per definire l'architettura software e cominciare a sviluppare funzionalità. Tale tempo non è da sottovalutare poiché potrebbe richiede, in base al contesto aziendale, una serie di procedure che possono essere automatizzate da tools come le `platform engineering tools`.
+- **Start-up**: Il tempo necessario per definire l'architettura software e cominciare a sviluppare funzionalità. Tale tempo non è da sottovalutare poiché potrebbe richiedere, in base al contesto aziendale, una serie di procedure che possono essere automatizzate da tools come le `platform engineering tools`.
 - **Costi**: Il costo che si affronta nell'arco della vita di un progetto o un prodotto che implementi questa architettura. Da considerare che nell'effettiva valutazione dei costi bisogna differenziare eventuali costi di avvio, da pagare una tantum, da costi ricorrenti, da pagare periodicamente per la manutenzione.
 - **Sviluppo e manutenzione**: La facilità con il quale è possibile effettuare modifiche e manutenzione al software. Per semplicità, anche l'aspetto del testing viene incluso in questo punto.
 - **Tracciabilità**: La facilità con la quale è possibile individuare problemi o bug all'interno del software.
